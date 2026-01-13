@@ -1,0 +1,27 @@
+```
+# Build artifacts
+.platformio/
+pioenvs/
+.piolibdeps/
+
+# Dependencies
+lib/
+.Python/
+venv/
+.env
+.env.local
+.env.*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+```
